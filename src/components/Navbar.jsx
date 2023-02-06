@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className='navbar-container'>
        <p className='logo'>
-           <Link href='/'>Shopify</Link>
+           <Link href='/'>ShopEE</Link>
        </p>
        <button type='button'
        className='cart-icon' onClick={showCartHandler}>
