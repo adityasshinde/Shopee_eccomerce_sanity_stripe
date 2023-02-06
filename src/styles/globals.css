@@ -619,6 +619,7 @@ margin-top: 160px;
 }
 
 @media screen and (max-width:800px) {
+
   .hero-banner-container{
     height: 560px;
   }
@@ -631,6 +632,7 @@ margin-top: 160px;
   .footer-banner-container{
     height: 560px;
     margin-top: 80px;
+    width: 100vw;
   }
   .footer-banner-image{
     width: 77%;
